@@ -8,7 +8,7 @@ Why usa i-satisfaction:
  * Have an idea of what your users like.
 
  ```html
-<script src="https://rawgit.com/CoolLabGr/i-satisfaction/master/i-satisfaction.js">
+<script src="https://cdn.jsdelivr.net/gh/CoolLabGr/i-satisfaction@master/i-satisfaction.js">
 
 <i-satisfation
     id="q1"
